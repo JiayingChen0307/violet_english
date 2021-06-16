@@ -11,6 +11,9 @@ PostgreSQL
 ### Users: 
 freelance teachers (priority), admin (optional), students (optional)
 
+### Main Audience:
+Potential and existing language teachers who are not based in China and/or not familiar with Wechat
+
 ### Features (User: teachers):
 * view and edit profile
 * display course schedule
@@ -22,3 +25,5 @@ freelance teachers (priority), admin (optional), students (optional)
 * violet-english/course-catalog
 * violet-english/teacher-myprofile-home
 * violet-english/teacher-myprofile-edit
+* violet-english/payment-and-contact
+* violet-english/user-reviews
